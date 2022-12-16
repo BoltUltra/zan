@@ -7,6 +7,11 @@
 		url(/gradient-bg.png);
 }
 
+.hero2 {
+	background: linear-gradient(to right, rgba(2, 198, 160, 0.7), rgba(5, 121, 226, 0.7)),
+		url(/gradient-bg.png);
+}
+
 .footer {
 	background: linear-gradient(to right, rgba(2, 198, 160, 0.7), rgba(5, 121, 226, 0.7)),
 		url(/gradient-bg.png);
