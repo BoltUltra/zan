@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hero {
+	background: linear-gradient(to right, rgba(2, 198, 160, 0.7), rgba(5, 121, 226, 0.7)),
+		url(/gradient-bg.png);
+}
+
+.footer {
+	background: linear-gradient(to right, rgba(2, 198, 160, 0.7), rgba(5, 121, 226, 0.7)),
+		url(/gradient-bg.png);
+}
+.pricing {
+	background: linear-gradient(rgba(2, 198, 160, 0.17), rgba(2, 198, 160, 0.17)),
+		url(/pricing-bg.png) no-repeat center;
+	background-size: cover;
+}
+
+.gradient {
+	background: linear-gradient(to right, rgba(2, 198, 160, 0.7), rgba(5, 121, 226, 0.7));
+}
+
+.premium-gradient {
+	background: linear-gradient(to bottom, #02c6a0, #0579e2);
+}
